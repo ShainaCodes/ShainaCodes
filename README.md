@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C# and VB.Net
 - 💞️ I’m looking to learn new skills for my job
 - 📫 How to reach me...Well, I'm bad at email, texting and hate talking on the phone so...😈
-- 😄 Pronouns: She/Her/Hers
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I used to be a competitive gymnast
 
 <!---
